@@ -1,4 +1,4 @@
-# This code creates a window with a button "Click Here".
+# This code creates a window with a button "Click Here" that prints "Clicked" once pressed.
 
 from tkinter import *
 def clicked():
